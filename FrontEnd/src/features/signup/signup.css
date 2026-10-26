@@ -1,0 +1,19 @@
+.errorText {
+  color: brown;
+  margin-top: 8px;
+}
+.requiredStar {
+  color: brown;
+}
+.fieldDiv {
+  margin-bottom: 1rem;
+}
+.fieldLabel {
+  margin-bottom: 3px;
+}
+.status-success {
+  color: green;
+}
+.status-error {
+  color: brown;
+}
